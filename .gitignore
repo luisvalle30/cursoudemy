@@ -1,0 +1,6 @@
+password.txt
+*.class
+log/*.log
+
+librerias/
+!librerias/archivo_*.md
